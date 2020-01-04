@@ -1,0 +1,2 @@
+Technically <!DOCTYPE > is not a tag/element, it just an instruction to the browser about the document type. 
+It is a null element which does not contain the closing tag, and must not include any content within it.
